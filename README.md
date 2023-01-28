@@ -14,3 +14,4 @@ Instructor: Yen-Yu Lin
 [HW4 - SVM and Hyperparameter Searching](https://github.com/hurueilin/PR_HW4)
 
 [HW5 - Deep Learning on CIFAR-10 Dataset](https://github.com/hurueilin/PR_HW5)
+([Pytorch version](https://github.com/hurueilin/PR_HW5_Pytorch))
